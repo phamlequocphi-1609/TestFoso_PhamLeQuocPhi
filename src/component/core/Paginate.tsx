@@ -72,4 +72,4 @@ const Paginate: React.FC<PaginateProps> = ({
   );
 };
 
-export default Paginate;
+export default React.memo(Paginate);
