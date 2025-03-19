@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Quản Lý Sản Xuất",
+    "imgUrl": "/image/bom.png",
+    "content": "Tại sao BOM quan trọng trong quản lý sản xuất?",
+    "date": "17/11/2022",
+    "readTime": "10 phút đọc"
+  },
+  {
+    "id": 2,
+    "title": "Quản Lý Sản Xuất",
+    "imgUrl": "/image/bom.png",
+    "content": "Tại sao BOM quan trọng trong quản lý sản xuất?",
+    "date": "17/11/2022",
+    "readTime": "10 phút đọc"
+  },
+  {
+    "id": 3,
+    "title": "Quản Lý Sản Xuất",
+    "imgUrl": "/image/bom.png",
+    "content": "Tại sao BOM quan trọng trong quản lý sản xuất?",
+    "date": "17/11/2022",
+    "readTime": "10 phút đọc"
+  }
+]
